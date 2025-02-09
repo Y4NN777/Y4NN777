@@ -1,11 +1,11 @@
 <!-- 🚀 Stylish Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
-  Hey there, I'm <span style="color:#4A90E2;">Y4NN777</span>!  
+  Hey there, I'm <span style="color:#4A90E2;">Y4NN777 </span>!  
 </h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Problem+Solver;Low-Level+%26+Full-Stack+Developer;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Systems+Engineer+%26+Problem+Solver;Bs+CS+Student+%26+Junior+Web++Developer;Tech+Explorer+%26+Lifelong+Learner;Python+coder" alt="Typing SVG" />
 </p>  
 
 ---
@@ -13,8 +13,8 @@
 <!-- 🎯 About Me Section -->
 ## 🌟 About Me  
 
-🎯 **Software Engineer & Problem Solver**  
-🚀 Passionate about **low-level programming, full-stack development, and scalable systems**.  
+🎯 **Aspiring Software & Systems Engineer & Problem Solver**  
+🚀 Passionate about **Software Design on the web** and interested in blockchain, IoT and AI.  
 💡 Love **building real-world solutions, diving into system design, and writing efficient code**.  
 ⚙️ Always exploring **C programming, software architecture, and development best practices**.  
 🔥 **Believer in continuous learning, optimization, and clean code principles.**  
