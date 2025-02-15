@@ -5,7 +5,7 @@
 </h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Systems+Engineer+%26+Problem+Solver;Bs+CS+Student+%26+Junior+Web++Developer;Tech+Explorer+%26+Lifelong+Learner;Python+coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Systems+Engineer+%26+Problem+Solver;Bs+CS+Student+%26+Junior+Web+Developer;Tech+Explorer+%26+Lifelong+Learner;Backend+Developer+|+Python+%26+Flask+Enthusiast" alt="Typing SVG" />
 </p>  
 
 ---
@@ -14,7 +14,7 @@
 ## 🌟 About Me  
 
 🎯 **Aspiring Software & Systems Engineer & Problem Solver**  
-🚀 Passionate about **Software Design on the web** and interested in blockchain, IoT and AI.  
+🚀 Passionate about **Software Design on the web** and interested in blockchain, IoT, and AI.  
 💡 Love **building real-world solutions, diving into system design, and writing efficient code**.  
 ⚙️ Always exploring **C programming, software architecture, and development best practices**.  
 🔥 **Believer in continuous learning, optimization, and clean code principles.**  
@@ -56,11 +56,24 @@
 
 ---
 
+<!-- 📚 Currently Learning -->
+## 📚 Currently Learning  
+🎯 Full-Stack Web Development  
+🗄️ SQL Databases Administration  
+🔥 Advanced JavaScript & React + Next.js  
+🎨 Tailwind CSS  
+📂 Project Management  
+🐍 Advanced Python  
+🚀 Laravel Framework
+🐧 Linux Administration  
+
+---
+
 <!-- 📊 GitHub Stats Section -->
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y4NN777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Y4NN777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y4NN777&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
@@ -70,7 +83,7 @@
 ## 🚀 Recent GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4NN777&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4NN777&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
@@ -91,6 +104,4 @@
 
 ---
 
-🔥 **"Software Engineering is not just a profession, it's a mindset. Keep building, keep learning!"**  
-
-
+🔥 **"Software Engineering is not just a profession, it's a mindset. Keep building, keep learning!"**
