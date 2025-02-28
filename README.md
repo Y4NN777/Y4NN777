@@ -58,13 +58,9 @@
 
 <!-- 📚 Currently Learning -->
 ## 📚 Currently Learning  
-🎯 Full-Stack Web Development  
-🗄️ SQL Databases Administration  
-🔥 Advanced JavaScript & React + Next.js  
+🔥 Advanced JavaScript (React,Next.js, NodeJS)  
 🎨 Tailwind CSS  
 📂 Project Management  
-🐍 Advanced Python  
-🚀 Laravel Framework
 🐧 Linux Administration  
 
 
