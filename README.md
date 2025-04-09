@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Systems+Engineer;Bs+CS+Student+%26+Software+Developer;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
+
+
 ## 🌟 About Me
 
 - 🎯 Aspiring **Software & Systems Engineer** focused on solving real-world problems
@@ -15,7 +17,9 @@
 - ⚙️ Always exploring C programming, software architecture, and best practices
 - 🔥 Committed to continuous learning and code optimization
 
-## 🛠️ Current ech Stack
+--
+
+## 🛠️ Current Tech Stack
 
 <div align="center">
 
@@ -41,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
+
+
 
 ## 📚 Currently Learning
 
@@ -72,6 +78,7 @@
   </a>
 </div>
 
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -86,7 +93,7 @@
   </a>
 </div>
 
----
+
 
 > "Software Engineering is not just a profession, it's a mindset. Keep building, keep learning!"
 
