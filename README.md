@@ -15,7 +15,7 @@
 - ⚙️ Always exploring C programming, software architecture, and best practices
 - 🔥 Committed to continuous learning and code optimization
 
-## 🛠️ Tech Stack
+## 🛠️ Current ech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Databases & Backend**  
+**Databases Management**  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
