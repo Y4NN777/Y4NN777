@@ -63,7 +63,6 @@
 - 🐧 Linux Administration
 
 ## 📊 GitHub Stats
-To ensure private contributions are reflected, create a GitHub personal access token with `repo` and `user` scopes in **Settings > Developer settings > Personal access tokens > Tokens (classic)**. Store it in your repository’s **Secrets** as `ACCESS_TOKEN` for GitHub Actions.
 
 <div align="center">
   <a href="https://github.com/Y4NN777">
@@ -89,7 +88,7 @@ To ensure private contributions are reflected, create a GitHub personal access t
   <a href="https://www.linkedin.com/in/Y4NN777">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:axeldaboworkplace@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Y4NN777">
