@@ -7,12 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Systems+Engineer;Bs+CS+Student+%26+Software+Developer;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
+
+
 ## 🌟 About Me
 - 🎯 Aspiring **Software & Systems Engineer** focused on solving real-world problems
 - 🚀 Passionate about **Software Design** with interests in blockchain, IoT, AI, and automation
 - 💡 Love building practical solutions and writing clean, efficient code
 - ⚙️ Always exploring C programming, software architecture, and test automation
 - 🔥 Committed to continuous learning and code optimization
+
+
 
 ## 🛠️ Current Tech Stack
 <div align="center">
@@ -54,6 +58,8 @@
 
 </div>
 
+
+
 ## 📚 Currently Learning
 - 🔥 Advanced JavaScript (React, Next.js, Node.js)
 - 🎨 Tailwind CSS
@@ -61,6 +67,8 @@
 - 🤖 Test Automation with Maestro, Selenium, and Playwright
 - 📂 Project Management
 - 🐧 Linux Administration
+
+
 
 ## 📊 GitHub Stats
 
@@ -81,7 +89,7 @@
   <a href="https://www.linkedin.com/in/Y4NN777">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:axeldaboworkplace@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Y4NN777">
