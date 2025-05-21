@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Systems+Engineer;Bs+CS+Student+%26+Software+Developer;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Systems+Engineer;Bs+CS+Student+%26+Software+Developer;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
@@ -66,13 +66,6 @@
 
 <div align="center">
   <a href="https://github.com/Y4NN777">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y4NN777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4NN777&layout=compact&langs_count=10&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Y4NN777">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y4NN777&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
@@ -88,7 +81,7 @@
   <a href="https://www.linkedin.com/in/Y4NN777">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:axeldaboworkplace@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Y4NN777">
