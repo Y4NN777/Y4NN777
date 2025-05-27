@@ -1,104 +1,172 @@
-<!-- 👋 Dynamic Header -->
+# <div align="center">🌊 Welcome to my Digital Ocean 🌊</div>
+
 <div align="center">
-  <h1>Hello there, I'm Y4NN !</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35,38&height=180&section=header&text=They%20call%20me%20Y4NN%2C%20I%20am%20a&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Systems+Engineer;Bs+CS+Student+%26+Software+Developer;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
-</div>
-
-
-
-## 🌟 About Me
-- 🎯 Aspiring **Software & Systems Engineer** focused on solving real-world problems
-- 🚀 Passionate about **Software Design** with interests in blockchain, IoT, AI, and automation
-- 💡 Love building practical solutions and writing clean, efficient code
-- ⚙️ Always exploring C programming, software architecture, and test automation
-- 🔥 Committed to continuous learning and code optimization
-
-
-
-## 🛠️ Current Tech Stack
-<div align="center">
-
-**Systems & Low-level**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Mobile Development**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Automation & AI**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat-square&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Database Management**  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-
-
-## 📚 Currently Learning
-- 🔥 Advanced JavaScript (React, Next.js, Node.js)
-- 🎨 Tailwind CSS
-- 📱 Mobile Development with Dart and Flutter
-- 🤖 Test Automation with Maestro, Selenium, and Playwright
-- 📂 Project Management
-- 🐧 Linux Administration
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Y4NN777">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y4NN777&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Creative+Problem+Solver+%26+Code+Architect;%F0%9F%92%BB+Passionate+Full-Stack+Developer;%F0%9F%A7%A0+AI+%7C+Blockchain+%7C+IoT+Innovation+Explorer;%F0%9F%94%A5+Turning+Ideas+into+Digital+Reality" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Y4NN777">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
-## 📫 Let's Connect
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+```yaml
+name: "Y4NN"
+title: "Digital Craftsman & Code Architect"
+current_role: "Software Developer"
+aspiring_role: "Software & Systems Engineer"
+location: "Digital Ocean 🌊"
+passion: ["Elegant Code", "Creative Solutions", "Tech Innovation"]
+motto: "Crafting tomorrow's digital experiences, today"
+
+philosophy: |
+  "I don't just write code - I architect digital experiences.
+   Every line is a brushstroke in the masterpiece of technology."
+
+current_mission:
+  - 🎯 Mastering scalable system architecture & design patterns
+  - 🤖 Pioneering AI/ML integration in real-world applications  
+  - 📱 Creating fluid, intuitive mobile experiences with Flutter
+  - ⚡ Engineering automation solutions that just work
+  - 🌟 Contributing meaningful open-source innovations
+
+expertise_domains:
+  - blockchain: "Decentralized future builder"
+  - iot: "Connected ecosystem architect" 
+  - ai_ml: "Intelligent automation pioneer"
+  - full_stack: "End-to-end solution crafter"
+```
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> **Tech Arsenal**
+
 <div align="center">
+
+### 🏗️ **Systems & Core Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github&theme=dark" />
+</p>
+
+### 🌐 **Web Development Mastery**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,laravel,flask&theme=dark" />
+</p>
+
+### 📱 **Mobile & Cross-Platform**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
+</p>
+
+### 🤖 **AI, Automation & Testing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Maestro-FF6B6B?style=for-the-badge&logo=maestro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+### 🗄️ **Database Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Learning Journey**
+
+<div align="center">
+
+| 🔥 **Currently Mastering** | 🎯 **Next Targets** | 🚀 **Future Goals** |
+|:---:|:---:|:---:|
+| `Advanced JavaScript` | `Cloud Architecture` | `DevOps & CI/CD` |
+| `React Ecosystem` | `Microservices` | `System Design` |
+| `Tailwind CSS` | `Docker & K8s` | `Blockchain Dev` |
+| `Flutter Development` | `AWS/Azure` | `AI/ML Engineering` |
+| `Test Automation` | `GraphQL` | `Technical Leadership` |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c30-4f17-8b92-639b2b8f7e57.gif" width="30"> **GitHub Analytics**
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Y4NN777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_color=30363d"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Y4NN777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_color=30363d" height="180em" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4NN777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_color=30363d"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4NN777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_color=30363d" height="180em" />
+  </picture>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> **Connect & Collaborate**
+
+<div align="center">
+
+### Let's build something amazing together! 🚀
+
+<p align="center">
   <a href="https://www.linkedin.com/in/Y4NN777">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:axeldaboworkplace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="https://github.com/Y4NN777">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
   </a>
+</p>
+
 </div>
 
-> "Software Engineering is not just a profession, it's a mindset. Keep building, keep learning!"
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Y4NN777&style=flat-square&color=blue" alt="Profile Views Counter" />
+  
+### 💭 **Philosophy**
+*"Software Engineering is not just a profession, it's a mindset.  
+Keep building, keep learning, keep innovating!"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35,38&height=120&section=footer&animation=twinkling" width="100%"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Y4NN777&style=for-the-badge&color=00BFFF&labelColor=0D1117" alt="Profile Views" />
+  
+  ⭐ **Star some repositories if you found them interesting!** ⭐
 </div>
