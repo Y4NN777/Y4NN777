@@ -1,7 +1,7 @@
 # <div align="center">🌊 Welcome to my Digital Ocean 🌊</div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35,38&height=180&section=header&text=They%20Call%20Me%20Y4NN%2C%20the%20Digital%20Dreams%20Architect&fontSize=29&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,8,12&height=180&section=header&text=They%20Call%20Me%20Y4NN%2C%20the%20Digital%20Dreams%20Architect&fontSize=29&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="400" height="425" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" height="435" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```yaml
 name: "Y4NN"
