@@ -107,7 +107,38 @@ aimed_expertise_domains:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" />
 </div>
 
+
 ---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-a1ec-fbd4d2fbb71c.gif" width="30"> **Beyond The Code - Y4NN Unplugged**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
+</div>
+
+### 🎭 **When I'm Not Architecting Digital Dreams...**
+
+<div align="center">
+
+| 📖 **Soul Food** | 😄 **Comedy Central** | ⚽ **Gaming Arena** | 🎤 **Music Studio** | 🎧 **Sound Lab** |
+|:---:|:---:|:---:|:---:|:---:|
+| **Bible Reader** | **Joke Master** | **FIFA Wizard** | **Rap Lyricist** | **Mix/Master Pro** |
+| *Finding wisdom in* | *Spreading laughter* | *Dominating the pitch* | *Crafting fire bars* | *Perfecting every beat* |
+| *ancient texts* | *one punchline at a time* | *with legendary skills* | *and storytelling* | *and frequency* |
+
+</div>
+
+### 🌟 **The Real Y4NN Formula:**
+```yaml
+life_balance:
+  spiritual: "📖 Bible study sessions for wisdom & guidance"
+  social: "😂 Cracking jokes that make people's day brighter"
+  competitive: "🎮 FIFA matches where I'm basically Messi"
+  creative: "🎵 Writing rap verses that hit different"
+  technical: "🎧 Audio engineering - mixing beats to perfection"
+
+motto: "Code by day, create by night, laugh always! 🚀"
+```
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> **Connect & Collaborate**
 
