@@ -16,7 +16,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="360" height="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="350" height="405" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```yaml
 name: "Y4NN"
@@ -32,7 +32,8 @@ philosophy: |
 
 current_mission:
   - 🎯 Mastering scalable system architecture & design patterns
-  - 🤖 Integrating AI/ML in real-world applications  
+  - 🤖 Integrating AI/ML in real-world applications
+  - 🌐 Building scalable & high performance and secure web applications
   - 📱 Creating fluid, intuitive mobile experiences with Flutter
   - ⚡ Engineering automation solutions that just work
 
