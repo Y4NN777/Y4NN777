@@ -56,7 +56,7 @@ aimed_expertise_domains:
 
 ### 🌐 **Web Development Mastery**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,laravel,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,bootstrap,tailwind,laravel,flask&theme=dark" />
 </p>
 
 ### 📱 **Mobile & Cross-Platform**
@@ -73,7 +73,7 @@ aimed_expertise_domains:
 
 ### 🗄️ **Database Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase,mongodb&theme=dark" />
 </p>
 
 </div>
