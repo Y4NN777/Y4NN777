@@ -109,13 +109,18 @@ aimed_expertise_domains:
 </div>
 
 
+<!-- ## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/api?username=Y4NN777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+-->
 ---
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-a1ec-fbd4d2fbb71c.gif" width="30"> **Beyond The Code - Y4NN Unplugged**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
 </div>
+
 
 ### 🎭 **When I'm Not Architecting Digital Dreams...**
 
