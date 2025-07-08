@@ -112,11 +112,12 @@
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+
+  
+ #### 🏆 GitHub Trophies
+[![trophy](https://github-trophies.vercel.app/?username=Y4NN777&wantAll=true&row=1)](https://github.com/lucthienphong1120/github-trophies)
   
 </div>
-
- #### 🏆 GitHub Trophie
-![trophy](https://github-profile-trophy.vercel.app/api?username=Y4NN777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
