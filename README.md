@@ -1,6 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=theY4NN%27s%20Space&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Logic%20Meets%20Imagination&descAlignY=55&descAlign=50" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=theY4NN%27s%20Space&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Logic%20Meets%20Imagination&descAlignY=55&descAlign=50" 
+    width="100%"
+  />
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Software+Developer+%7C+Backend+Engineer;AI+Blockchain+IoT+Enthusiast;Rap+Lyricist+%7C+Audio+Engineer+%7C+FIFA+Legend" alt="Dynamic Identity" />
