@@ -115,14 +115,9 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" />
-</div>
-
-
-<!-- ## 🏆 GitHub Trophies
+ #### 🏆 GitHub Trophie
 ![trophy](https://github-profile-trophy.vercel.app/api?username=Y4NN777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
--->
+
 ---
 
 
