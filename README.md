@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=Y4NN%27s%20Digital%20Archipelago&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Logic%20Meets%20Imagination&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=theY4NN%27s%20Space&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Logic%20Meets%20Imagination&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -79,6 +79,14 @@
   <br>
   <img src="https://img.shields.io/badge/Maestro-00B4D8?style=for-the-badge&logo=maestro&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-48CAE4?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/VPS-Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Deployment-00B4D8?style=for-the-badge&logo=azure&logoColor=white" />
 </p>
 
 ### 🗄️ **Data Management**
