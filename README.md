@@ -28,7 +28,7 @@
   name: "Ragnang-Newende Yanis Axel DABO"
   codename: "777"
   current_role: "Software Developer"
-  aspiring_role: "Software & Systems Engineer"
+  aspiring_role: "Software Architect & Systems Engineer"
   location: "Somewhere between logic and imagination"
   current_mission: "Crafting scalable systems that actually matter"
   passion: ["Problem Solving", "Creative Solutions", "Tech Innovation"]
