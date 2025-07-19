@@ -107,11 +107,25 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c30-4f17-8b92-639b2b8f7e57.gif" width="30"> **Y4NN engineering sessions Analytics**
+## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c30-4f17-8b92-639b2b8f7e57.gif" width="30"> **Y4NN sessions Analytics**
 
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y4NN777&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y4NN777&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y4NN777&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y4NN777&theme=tokyonight&utcOffset=0" alt="Productive Time" />
+</div>
 
   
  #### 🏆 GitHub Trophies
