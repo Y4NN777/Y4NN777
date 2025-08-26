@@ -9,7 +9,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Software+Developer+%7C+Backend+Lover;AI+%7C+Blockchain+%7C+IoT+Enthusiast" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Software+Developer+%7C+Backend+Lover;AI+%7C+Blockchain+%7C+DevSecOps+Enthusiast" 
     alt="Dynamic Identity" 
   />
 </div>
