@@ -123,7 +123,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y4NN777&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y4NN777&theme=tokyonight&utcOffset=0" alt="Productive Time" />
 </div>
 
