@@ -68,18 +68,18 @@
 ### ⚙️ **Systems & Foundation**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,java,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
 </p>
 
 ### 🌐 **Web Mastery Suite**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,bootstrap,laravel,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,bootstrap,laravel,flask&theme=dark" />
 </p>
 
 ### 📱 **Mobile & Cross-Platform**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
 </p>
 
 ### 🤖 **AI & Automation Laboratory**
@@ -92,7 +92,7 @@
 
 ### ☁️ **Cloud & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/VPS-Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-Deployment-00B4D8?style=for-the-badge&logo=azure&logoColor=white" />
@@ -201,9 +201,7 @@ motto: "Code by day, create by night, laugh always! 🚀"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=120&section=footer&animation=fadeIn" width="100%"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Y4NN777&style=for-the-badge&color=00B4D8&labelColor=023E8A" alt="Digital Visitors" />
-  
+    
   ⭐ **If you find value in my projects creations, consider starring them!** ⭐
 </div>
 
