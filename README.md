@@ -92,7 +92,7 @@
 
 ### ☁️ **Cloud & DevOps Tool Exposure**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,ovh&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/VPS-Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-Deployment-00B4D8?style=for-the-badge&logo=azure&logoColor=white" />
