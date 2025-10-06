@@ -71,18 +71,18 @@
   <img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
 </p>
 
-### 🌐 **Web Mastery Suite**
+### 🌐 **Web App Toolkit**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,bootstrap,laravel,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,laravel,flask&theme=dark" />
 </p>
 
-### 📱 **Mobile & Cross-Platform**
+### 📱 **Mobile Toolkit**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
 </p>
 
-### 🤖 **AI & Automation Laboratory**
+### 🤖 **GenAI & Automation Toolkit**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
   <br>
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Playwright-48CAE4?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **Cloud & DevOps Tool Exposure**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
   <br>
