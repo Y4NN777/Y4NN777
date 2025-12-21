@@ -64,36 +64,30 @@
 
 
 <div align="center">
-
-# 🛠️ Technical Stack
-
-<br />
-
+  
 ### 💻 Systems Programming
 <img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
 
 <br />
-<br />
+
 
 ### 🌐 Web & Mobile Development
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,laravel,flask,dart,flutter&perline=6&theme=dark" />
 
 <br />
-<br />
+
 
 ### 🗄️ Databases & Persistence
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase&theme=dark" />
 
 <br />
-<br />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
-<br />
 <img src="https://img.shields.io/badge/VPS_Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
 
 <br />
-<br />
+
 
 ### 🤖 AI Integration & Automation
 <img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
