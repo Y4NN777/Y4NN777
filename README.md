@@ -19,7 +19,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About the Y4NN**
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="300">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="200">
 
 
 
@@ -27,10 +27,10 @@
   
   name: "Ragnang-Newende Yanis Axel DABO"
   codename: "777"
-  current_role: "Software Developer"
-  aspiring_role: "Software Architect & Systems Engineer"
+  current_role: "Backend Developer"
+  aspiring_role: "Software Engineer, Backend & IA Specialist"
   location: "Somewhere between logic and imagination"
-  current_mission: "Crafting scalable systems that actually matter"
+  current_mission: "Learn & Serve"
   passion: ["Problem Solving", "Creative Solutions", "Tech Innovation"]
   
   tech_philosophy: |
@@ -39,7 +39,7 @@
   
   status:
     - role: "Software Developer & CS Student"
-    - aspiring: "Systems Engineer who ships impact"
+    - aspiring: "Software Engineer who ships impact"
     - vibe: "Always in beta, always learning"
     
   core_beliefs:
@@ -54,54 +54,56 @@
     human: "Making complex things feel simple"
   
   aimed_expertise_domains:
-    - blockchain: "Decentralized future builder"
-    - iot: "Connected ecosystem architect" 
+    - web3: "Decentralized future builder"
     - ai_ml: "Intelligent autonomous solutions"
 ```
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> **Toolchain**
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> **Toolkit**
+
 
 <div align="center">
 
-### ⚙️ **Systems & Foundation**
+# 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
-</p>
+<br />
 
-### 🌐 **Web App Toolkit**
+### 💻 Systems Programming
+<img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,laravel,flask&theme=dark" />
-</p>
+<br />
+<br />
 
-### 📱 **Mobile Toolkit**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
-</p>
+### 🌐 Web & Mobile Development
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,laravel,flask,dart,flutter&perline=6&theme=dark" />
 
-### 🤖 **GenAI & Automation Toolkit**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/Maestro-00B4D8?style=for-the-badge&logo=maestro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-48CAE4?style=for-the-badge&logo=playwright&logoColor=white" />
-</p>
+<br />
+<br />
 
-### ☁️ **Cloud/DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/VPS-Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-Deployment-00B4D8?style=for-the-badge&logo=azure&logoColor=white" />
-</p>
+### 🗄️ Databases & Persistence
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase&theme=dark" />
 
-### 🗄️ **Data Management**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,supabase,mongodb,postgresql&theme=dark" />
-</p>
+<br />
+<br />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
+<br />
+<img src="https://img.shields.io/badge/VPS_Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
+
+<br />
+<br />
+
+### 🤖 AI Integration & Automation
+<img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
+<br />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/Maestro-00B4D8?style=for-the-badge&logo=automattic&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
 </div>
 
@@ -111,24 +113,17 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+
 
   <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4NN777&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y4NN777&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y4NN777&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y4NN777&theme=tokyonight&utcOffset=0" alt="Productive Time" />
-</div>
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y4NN777&theme=tokyonight&utcOffset=0" alt="Productive Time" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  </div>
   
- #### 🏆 GitHub Trophies
-[![trophy](https://github-trophies.vercel.app/?username=Y4NN777&wantAll=true&row=1)](https://github.com/lucthienphong1120/github-trophies)
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y4NN777&theme=tokyonight" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y4NN777&theme=tokyonight" alt="Most Commit Language" />
+  </div>
   
 </div>
 
@@ -145,40 +140,30 @@
 
 <div align="center">
 
-| 📖 **Soul Food** | 😄 **Joke master ** | ⚽ **FIFA gamer** | 🎤 **Rap lyricist** | 🎧 **Junior Sound Engineer** |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Bible](https://img.shields.io/badge/Bible-Reader-CAF0F8?style=for-the-badge&logo=book&logoColor=023E8A) | ![Comedy](https://img.shields.io/badge/Joke-Master-ADE8F4?style=for-the-badge&logo=smile&logoColor=023E8A) | ![FIFA](https://img.shields.io/badge/FIFA-Legend-90E0EF?style=for-the-badge&logo=fifa&logoColor=023E8A) | ![Rap](https://img.shields.io/badge/Rap-Lyricist-48CAE4?style=for-the-badge&logo=music&logoColor=023E8A) | ![Audio](https://img.shields.io/badge/Audio-Engineer-00B4D8?style=for-the-badge&logo=headphones&logoColor=023E8A) |
-| *Seeking wisdom in* | *Crafting laughter* | *Dominating pitches* | *Weaving stories* | *Perfecting every* |
-| *timeless scriptures* | *with perfect timing* | *with legendary moves* | *through powerful bars* | *frequency and beat* |
+### 🎭 The Multi-Dimensional Y4NN
 
-</div>
+| 📖 **Soul Food** | ⚽ **FIFA Gamer** | 🎤 **Rap Lyricist** | 🎧 **Sound Engineer** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Bible-Reader-CAF0F8?style=for-the-badge&logo=book&logoColor=03045E" /> | <img src="https://img.shields.io/badge/FIFA-Legend-90E0EF?style=for-the-badge&logo=easports&logoColor=03045E" /> | <img src="https://img.shields.io/badge/Rap-Lyricist-48CAE4?style=for-the-badge&logo=mic&logoColor=03045E" /> | <img src="https://img.shields.io/badge/Audio-Engineer-00B4D8?style=for-the-badge&logo=audio-technica&logoColor=white" /> |
+| *Seeking wisdom in* | *Dominating pitches* | *Weaving stories* | *Perfecting every* |
+| *timeless scriptures* | *with legendary moves* | *through powerful bars* | *frequency and beat* |
 
-### 🌟 **The Real Y4NN Formula:**
-```yaml
-life_balance:
-  spiritual: "📖 Bible study sessions for wisdom & guidance"
-  social: "😂 Cracking jokes that make people's day brighter"
-  competitive: "🎮 FIFA matches where I'm basically Messi"
-  creative: "🎵 Writing rap verses that hit different"
-  technical: "🎧 Audio engineering - mixing beats to perfection"
+<br />
 
-motto: "Code by day, create by night, laugh always! 🚀"
-```
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> **Connect & Collaborate**
-
-<div align="center">
-
-### Let's build something amazing together! 🚀
+## 🤝 Connect & Collaborate
+### Let's build something amazing together!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Y4NN777">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:axeldaboworkplace@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  &nbsp;&nbsp;
+  <a href="mailto:y4nn.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 </div>
 
