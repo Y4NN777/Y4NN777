@@ -148,7 +148,7 @@
 ### Let's build something amazing together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Y4NN777">
+  <a href="https://www.linkedin.com/in/y4nnthedev777">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
