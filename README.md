@@ -59,51 +59,6 @@
     - ai_ml: "Intelligent autonomous solutions"
 ```
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> **Toolkit**
-
-
-<div align="center">
-  
-### 💻 Systems Programming
-<img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" />
-
-<br />
-
-
-### 🌐 Web & Mobile Development
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,laravel,flask,dart,flutter&perline=6&theme=dark" />
-
-<br />
-
-
-### 🗄️ Databases & Persistence
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase&theme=dark" />
-
-<br />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,azure,aws&theme=dark" />
-<img src="https://img.shields.io/badge/VPS_Management-0077B6?style=for-the-badge&logo=server&logoColor=white" />
-
-<br />
-
-
-### 🤖 AI Integration & Automation
-<img src="https://skillicons.dev/icons?i=python,selenium,opencv&theme=dark" />
-<br />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/Maestro-00B4D8?style=for-the-badge&logo=automattic&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c30-4f17-8b92-639b2b8f7e57.gif" width="30"> **Y4NN sessions Analytics**
 
 <div align="center">
