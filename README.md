@@ -102,7 +102,7 @@ status:    "Stepping up. Shipping serious stuff."
 | Project | What it is | Stack |
 |---|---|---|
 | [**mishkan-cc-harness**](https://github.com/Y4NN777/mishkan-cc-harness) | Personal SDLC harness — 45 agents, 6 teams, knowledge graph, observability, 18 workflows | Python · JS · Shell · Docker |
-| [**7review**](https://github.com/Y4NN777/7review) | Strict code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
+| [**7review**](https://github.com/Y4NN777/7review) |Local-first code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
 | [**doc-intel**](https://github.com/Y4NN777/doc-intel) | Terminal-native document intelligence — fully local, zero network calls, single Go binary | Go · FAISS · SQLite |
 | [**TengLaafi**](https://github.com/Y4NN777/tenglaafi) | RAG medical assistant for tropical diseases & African medicinal plants — 1,531-doc corpus | Python · FastAPI · ChromaDB · Mistral-7B |
 | [**WiseMoney**](https://github.com/Y4NN777/wisemoney) ↗ [live](https://wisemoney.y7labs.studio/) | Local-first finance PWA — encrypted on-device data, AI guidance, Go edge service, threat model | TypeScript · React ·Go · Docker |
