@@ -23,7 +23,7 @@ name:      "Ragnang-Newende Yanis Axel DABO"
 alias:     ">_TheY4NN"
 code:      "Y4NN777" 
 base:      "Ouagadougou, Burkina Faso"
-mission:   "Learn & Serve"
+mission:   "Learn & Build to Serve"
 
 trajectory: >
   Software Engineer who designs systems,learns to builds them right,
@@ -97,7 +97,7 @@ status:    "Stepping up. Shipping serious stuff."
 
 ---
 
-## Selected work
+## Current Active work
 
 | Project | What it is | Stack |
 |---|---|---|
