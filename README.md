@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=180&section=header&text=Y4NN%27s%20Space&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Where%20Logic%20Meets%20Imagination&descAlignY=58&descAlign=50" width="100%" />
+<img src="header.svg" width="100%" alt="Blueprint Title Block">
 </div>
+
 
 <div align="center">
   <img
