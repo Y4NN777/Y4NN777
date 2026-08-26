@@ -55,10 +55,7 @@ status:    "Stepping up. Shipping serious stuff."
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
@@ -71,7 +68,7 @@ status:    "Stepping up. Shipping serious stuff."
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**mishkan-cc-harness**](https://github.com/Y4NN777/mishkan-cc-harness) | Personal SDLC harness — 45 agents, 6 teams, knowledge graph, observability, 18 workflows | Python · JS · Shell · Docker |
+| [**mishkan**](https://github.com/Y4NN777/mishkan) |  Agentic Software Development System, autonomous collaboration and coordination | Python
 | [**7review**](https://github.com/Y4NN777/7review) |Local-first code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
 | [**doc-intel**](https://github.com/Y4NN777/doc-intel) | Terminal-native document intelligence — fully local, zero network calls, single Go binary | Go · FAISS · SQLite |
 | [**TengLaafi**](https://github.com/Y4NN777/tenglaafi) | RAG medical assistant for tropical diseases & African medicinal plants — 1,531-doc corpus | Python · FastAPI · ChromaDB · Mistral-7B |
@@ -84,7 +81,7 @@ status:    "Stepping up. Shipping serious stuff."
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+  <img src="https://streak-stats.demolab.com?user=Y4NN777&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y4NN777&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y4NN777&theme=tokyonight" />
