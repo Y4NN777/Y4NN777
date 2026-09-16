@@ -68,8 +68,8 @@ status:    "Stepping up. Shipping serious stuff."
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**mishkan**](https://github.com/Y4NN777/mishkan) |  Agentic Software Development System, autonomous collaboration and coordination | Python
-| [**7review**](https://github.com/Y4NN777/7review) |Local-first code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
+| [**mishkan**](https://github.com/Y7-Labs/mishkan) |  Agentic Software Development System, autonomous collaboration and coordination | Python
+| [**7review**](https://github.com/Y7-Labs/7review) |Local-first code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
 | [**doc-intel**](https://github.com/Y4NN777/doc-intel) | Terminal-native document intelligence — fully local, zero network calls, single Go binary | Go · FAISS · SQLite |
 | [**TengLaafi**](https://github.com/Y4NN777/tenglaafi) | RAG medical assistant for tropical diseases & African medicinal plants — 1,531-doc corpus | Python · FastAPI · ChromaDB · Mistral-7B |
 | [**WiseMoney**](https://github.com/Y4NN777/wisemoney) ↗ [live](https://wisemoney.y7labs.studio/) | Local-first finance PWA — encrypted on-device data, AI guidance, Go edge service, threat model | TypeScript · React ·Go · Docker |
@@ -91,8 +91,7 @@ status:    "Stepping up. Shipping serious stuff."
 
 ## Beyond the code
 
-Bible reader · FIFA legend · Rap lyricist · Sound engineer  
-*Faith, bars, and frequencies — the other stack.*
+Faith in JESUS-CHRIST · Teaching CS · FIFA Gamer · Rap lyricist · Sound engineer  
 
 ---
 
