@@ -69,12 +69,12 @@ status:    "Stepping up. Shipping serious stuff."
 | Project | What it is | Stack |
 |---|---|---|
 | [**mishkan**](https://github.com/Y7-Labs/mishkan) |  Agentic Software Development System, autonomous collaboration and coordination | Python
-| [**7review**](https://github.com/Y7-Labs/7review) |Local-first code review agent for GitHub PRs & GitLab MRs — multi-LLM routing, human-in-the-loop | Go · Docker |
-| [**doc-intel**](https://github.com/Y4NN777/doc-intel) | Terminal-native document intelligence — fully local, zero network calls, single Go binary | Go · FAISS · SQLite |
-| [**TengLaafi**](https://github.com/Y4NN777/tenglaafi) | RAG medical assistant for tropical diseases & African medicinal plants — 1,531-doc corpus | Python · FastAPI · ChromaDB · Mistral-7B |
-| [**WiseMoney**](https://github.com/Y4NN777/wisemoney) ↗ [live](https://wisemoney.y7labs.studio/) | Local-first finance PWA — encrypted on-device data, AI guidance, Go edge service, threat model | TypeScript · React ·Go · Docker |
-| [**MalVision**](https://github.com/Y4NN777/MalVision) | Deep learning malware detection — binary visualization + CNN, classifies 25 malware families | Python · PyTorch |
-| [**Y7-Jprompter**](https://github.com/Y4NN777/Y7-Jprompter) ↗ [live](https://y7-jprompter.y7labs.studio/) | Natural language → structured JSON via Gemini AI | JavaScript · Next.js |
+| [**7review**](https://github.com/Y7-Labs/7review) |Local-first code review agent for GitHub PRs & GitLab MRs multi-LLM routing, human-in-the-loop | Go · Docker |
+| [**komet**](https://github.com/jomvick/komet/) | A lightweight control room application for tracking, auditing, and managing AI coding agents | Rust |
+| [**TengLaafi**](https://github.com/Y4NN777/tenglaafi) | RAG medical assistant for tropical diseases & African medicinal plants 1,531-doc corpus | Python · FastAPI · ChromaDB · Mistral-7B |
+| [**WiseMoney**](https://github.com/Y4NN777/wisemoney) ↗ [live](https://wisemoney.y7labs.studio/) | Local-first finance application encrypted on-device data, AI guidance, Go edge service, threat model | TypeScript · React ·Go · Docker |
+| [**MalVision**](https://github.com/Y4NN777/MalVision) | Deep learning malware detection binary visualization + CNN, classifies 25 malware families | Python · PyTorch |
+| [**Y7-Jprompter**](https://github.com/Y4NN777/Y7-Jprompter) ↗ [live](https://y7-jprompter.y7labs.studio/) | Natural language structured JSON via Gemini AI | JavaScript · Next.js |
 
 ---
 
