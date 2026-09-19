@@ -1,11 +1,16 @@
-<div align="center">
-<img src="header.svg" width="100%" alt="Blueprint Title Block">
-</div>
+<h2>Yo ! I'm Yanis <i>AKA the Y4NN</i></h2><p><i>Just John in Hebrew :)</i></p>
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjZm4xdWgxNjU1MGw3c2d3NTR2dGRmYnRnZnZhMDl0bXRvYmwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://aiobi.world/">Aïobi</a> (Systems & Platform ) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>IT Specialist and Instructor at <a href="https://aaa-bf.org/fr/">African American Academy</a> ( IT Support & CS/Programming Teaching )
+</em></p>
+<p><em>R&D on Software Systems, AI & Systems Sec</em></p>
+<p><em>Open Source advocate</em></p>
+<p><em>Seeking Responsible Software & Platform Engineering Mastery</em></p>
 
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=0077B6&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%7C+AI+Explorer+%7C+DevSecOps;Backend+Performance+%7C+Infrastructure+Reliability;Design.+Build.+Ship.+Observe.+Improve."
+<div align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=9000&pause=400&color=0077B6&width=900&height=45&lines=Design.+Build.+Ship.+Observe.+Improve."
     alt="Typing SVG"
   />
 </div>
