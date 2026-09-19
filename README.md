@@ -1,7 +1,7 @@
 <h2>Yo ! I'm Yanis <i>AKA the Y4NN</i></h2><p><i>Just John in Hebrew :)</i></p>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjZm4xdWgxNjU1MGw3c2d3NTR2dGRmYnRnZnZhMDl0bXRvYmwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://aiobi.world/">Aïobi</a> (Systems & Platform ) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
-<p><em>IT Specialist and Instructor at <a href="https://aaa-bf.org/fr/">African American Academy</a> ( IT Support & CS/Programming Teaching )
+<p><em>Software Engineer, <a href="https://aiobi.world/">Aïobi</a> (Systems & Platform ) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>IT Specialist and Instructor, <a href="https://aaa-bf.org/fr/">African American Academy</a> ( IT Support & CS/Programming Teaching )
 </em></p>
 <p><em>R&D on Software Systems, AI & Systems Sec</em></p>
 <p><em>Open Source advocate</em></p>
